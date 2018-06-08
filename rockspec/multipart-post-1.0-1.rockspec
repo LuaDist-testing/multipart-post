@@ -1,18 +1,10 @@
--- This file was automatically generated for the LuaDist project.
-
 package = "multipart-post"
 version = "1.0-1"
 
--- LuaDist source
 source = {
-  tag = "1.0-1",
-  url = "git://github.com/LuaDist-testing/multipart-post.git"
+   url = "git://github.com/catwell/lua-multipart-post.git",
+   branch = "v1.0",
 }
--- Original source
--- source = {
---    url = "git://github.com/catwell/lua-multipart-post.git",
---    branch = "v1.0",
--- }
 
 description = {
    summary = "HTTP Multipart Post helper that does just that",
